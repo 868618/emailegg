@@ -1,0 +1,19 @@
+{
+  "name": "emailegg",
+  "version": "1.0.3",
+  "description": "send mass email without setting up smtp server ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "smtp",
+    "emailegg"
+  ],
+  "author": "kenny",
+  "license": "ISC",
+  "dependencies": {
+    "dkim-signer": "^0.2.2",
+    "mailcomposer": "^3.12.0"
+  }
+}
