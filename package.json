@@ -1,6 +1,6 @@
 {
   "name": "emailegg",
-  "version": "1.0.3",
+  "version": "1.0.8",
   "description": "send mass email without setting up smtp server ",
   "main": "index.js",
   "scripts": {
