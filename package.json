@@ -13,7 +13,11 @@
   "author": "kenny",
   "license": "ISC",
   "dependencies": {
+    "csvdata": "^1.7.0",
     "dkim-signer": "^0.2.2",
-    "mailcomposer": "^3.12.0"
+    "ip": "^1.1.5",
+    "mailcomposer": "^3.12.0",
+    "moment": "^2.24.0",
+    "nodemailer": "^6.4.5"
   }
 }
